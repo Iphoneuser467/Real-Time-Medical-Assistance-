@@ -1,4 +1,3 @@
-
 # 🩺 Real-Time Medical Diagnosis Assistant
 
 An AI-powered medical assistant built using Streamlit, LangChain, and Ollama. This application provides real-time medical diagnosis assistance and a health risk calculator.
